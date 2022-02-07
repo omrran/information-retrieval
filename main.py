@@ -14,6 +14,7 @@ import processing
 
 # print(vectorMath.inner_product([2, -3], [1, 4]))
 # print(vectorMath.length_vector([1, 4]))
+# print(vectorMath.length_vector([1, 5]))
 
 # print(vectorMath.angle_between_two_vector([2, 3, 5], [0, 0, 2]))
 # print(vectorMath.angle_between_two_vector([3, 7, 1], [0, 0, 2]))
